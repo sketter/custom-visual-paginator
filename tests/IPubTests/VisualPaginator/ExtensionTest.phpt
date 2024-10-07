@@ -13,7 +13,7 @@
  * @date		30.01.15
  */
 
-namespace IPubTests\VisualPaginator;
+namespace SketterTests\VisualPaginator;
 
 use Nette;
 

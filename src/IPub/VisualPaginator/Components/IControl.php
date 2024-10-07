@@ -12,7 +12,7 @@
  * @date		18.06.14
  */
 
-namespace IPub\VisualPaginator\Components;
+namespace Sketter\VisualPaginator\Components;
 
 interface IControl
 {
