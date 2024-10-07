@@ -12,6 +12,6 @@
  * @date		30.01.15
  */
 
-namespace Sketter\VisualPaginator\Exceptions;
+namespace IPub\VisualPaginator\Exceptions;
 
 class FileNotFoundException extends IOException implements IException {}

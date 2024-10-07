@@ -24,8 +24,8 @@ use Nette\Utils;
 use Tester;
 use Tester\Assert;
 
-use IPub;
-use IPub\VisualPaginator;
+use Sketter;
+use Sketter\VisualPaginator;
 
 require __DIR__ . '/../bootstrap.php';
 

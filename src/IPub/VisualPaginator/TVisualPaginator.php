@@ -12,7 +12,7 @@
  * @date		01.02.15
  */
 
-namespace Sketter\VisualPaginator;
+namespace IPub\VisualPaginator;
 
 use Nette;
 use Nette\Application;
